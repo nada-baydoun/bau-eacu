@@ -1515,8 +1515,8 @@ section,
 
 .faq .faq-container .faq-active .faq-toggle {
   transform: rotate(90deg);
-  color: var(--accent-color);
-}
+/*   color: var(--accent-color); */
+} 
 
 /*--------------------------------------------------------------
 # Testimonials Section
